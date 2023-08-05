@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yorlingarcia
-- 👀 I’m interested in ...
+- 👀 I’m interested in Fron End Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me yorlin.garcia.dev@gmail.com
 
 <!---
 yorlingarcia/yorlingarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
